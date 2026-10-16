@@ -1,5 +1,17 @@
-# Lab Session: Week 3 - Edge detection
+# Lab Session 1: Image Histograms and Spatial Filtering
+## Introduction
+Welcome to W3 Computer Vision and Imaging lab. In this session, you'll dive into fundamental image processing operations that form the backbone of many advanced computer vision tasks. We will focus on two key areas:
 
-In this lab exercise, you will look at applying edge detectors to images and comparing two different methods. You will also learn how to write a function in Python and evaluate the difference when using an approximation for the calculation of a parameter.
+1. Image Histograms: Analysing and modifying the intensity distribution of an image to enhance contrast.
+2. Spatial Filtering: Using small convolution kernels to smooth (low-pass) or sharpen (high-pass) an image.
 
-At this stage, we will assume that you are able to use Python, and understand its basic use. **You are asked to write a short (no more than 2 pages) report of your work, answering specific questions, and showing example images.** This work is not assessed (it will not count towards your module mark) but you will get formative feedback.
+## Time Allotment
+This lab is designed to be completed in 50 minutes. Please focus on completing the main coding sections and observing the results.
+
+## Expected Outcomes
+Upon successful completion of this lab, you should be able to:
+
+- Understand what an image histogram represents.
+- Apply Histogram Stretching and Equalisation to improve image contrast.
+- Explain the difference between low-pass (smoothing) and high-pass (sharpening) filters.
+- Use basic Python libraries (numpy, skimage, scipy, matplotlib) for image manipulation.
