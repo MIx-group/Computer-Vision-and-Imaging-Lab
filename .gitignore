@@ -1,0 +1,6 @@
+**/.DS_Store
+**/__MACOSX
+# Jupyter
+**/.ipynb_checkpoints/
+**/.virtual_documents/
+**/.jupyter/
